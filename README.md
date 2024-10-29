@@ -1,6 +1,10 @@
 # Urbit Systems Technical Journal Forum
 
-Created by ~polwex for the [Urbit Foundation](https://urbit.org).
+Created by ~polwex for the [Urbit Foundation](https://urbit.org) and the *Urbit Systems Technical Journal*.
+
+Although branded here as “USTJ Forum”, this software can be straightforwardly rebranded.
+
+Users may log in via Arvo (EAuth) or MetaMask.
 
 ##  Command-Line Interface
 
