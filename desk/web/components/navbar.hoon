@@ -42,12 +42,9 @@
   ;nav#topnav.fs.g2
     ;div.f.g2
       ;div#nav-main.fs
-        ;a/"https://urbitsystems.tech/"(class "lg:relative flex h-full items-center bg-black w-1/2 lg:w-[14.5rem] xl:w-64 type-ui"):"~    Technical Journal"
-        ;div#nav-dropdown:"↓"
+        ;a/"https://urbit.chat/"(class "lg:relative flex h-full items-center bg-black w-1/2 lg:w-[14.5rem] xl:w-64 type-ui"):"~    Urbit Forum"
       ==
       ;div#nav-links
-        ;a/"https://urbitsystems.tech/information":"Information"
-        ;a.active/"/forum":"Forum"
       ==
     ==
     ;div#login-div
