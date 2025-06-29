@@ -276,7 +276,7 @@
 |_  [s=versioned-state =bowl:gall]
 ++  root-path-card
   ^-  card
-  [%pass /root %arvo %e %connect [~ /] dap.bowl]
+  [%pass /root %arvo %e %connect [~ /forum] dap.bowl]
 :: ++  metamask-card
 ::   ^-  card
 ::   [%pass /root %arvo %e %connect [~ /metamask] dap.bowl]
