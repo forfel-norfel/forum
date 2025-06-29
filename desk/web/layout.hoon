@@ -4,7 +4,7 @@
     ;head
       ;meta(charset "utf-8");
       ;meta(name "viewport", content "width=device-width, initial-scale=1, shrink-to-fit=no");
-      ;title:"Urbit Forum"
+      ;title:"Urbit Chat"
       ;link/"/forum/imgs/favicon.ico"(rel "icon", type "image/png");
       ;link/"/forum/imgs/favicon-32x32.png"(rel "icon", type "image/png", sizes "32x32");
       ;link/"/forum/imgs/favicon-16x16.png"(rel "icon", type "image/png", sizes "16x16");
