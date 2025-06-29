@@ -44,8 +44,6 @@
       ;div#nav-main.fs
         ;a/"https://urbit.chat/"(class "lg:relative flex h-full items-center bg-black w-1/2 lg:w-[14.5rem] xl:w-64 type-ui"):"~    Urbit Chat"
       ==
-      ;div#nav-links
-      ==
     ==
     ;div#login-div
       ;+  login-prompt
